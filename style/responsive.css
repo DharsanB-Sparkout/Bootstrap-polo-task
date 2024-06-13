@@ -1,0 +1,445 @@
+@media(max-width:1199px){
+.sale-detail{
+    margin-top: 70px;
+}
+.sale{
+    font-size: 27px;
+    
+}
+h1{
+    font-size: 100px;
+    width: 650px;
+    margin-top:-5px;
+    line-height: 90px;
+}
+.say-hello{
+    width: 400px;
+    letter-spacing: 4px;
+    margin-top: 5px;
+    font-size: small;
+    margin-bottom: 20px;
+}
+.shopnow{
+    padding: 15px 20px;
+}
+
+
+
+
+
+
+.style{
+    font-size:20px;
+}
+.offer{
+    width: 300px;
+    font-size: 15px;
+}
+.collection-button{
+    font-size: 14px;
+}
+.over{
+   
+    background-position-y:10px;
+    background-position-x:120px;
+    height: 360px;
+}
+.feature-content{
+    font-size: 18px;
+}
+.pound{
+    font-size: 18px;
+}
+.product-detail{
+    font-size: 15px;
+}
+.shop-product-carousel{
+    margin-bottom: 20px;
+}
+.products-brand{
+    margin-top: 20px;
+    margin-bottom: 35px;
+}
+.product-name{
+    font-size: 17px;
+}
+.summer-sale-countdown{
+    font-size: 33px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.counting{
+    margin-bottom: 30px;
+}
+.Categories{
+    margin-top: 70px;
+    margin-bottom: 30px;
+}
+.categorie-type{
+    font-size: 16px;
+    margin-top: 0px;
+}
+.product-categories{
+    width:93%; 
+    bottom: 10px;
+}
+.stock{
+    margin-bottom: 8px;
+}
+.footer-address{
+    width: 200px;
+}
+
+.copyright-contant{
+    font-size: 12px;
+}
+}
+@media(max-width:992px){
+
+    /* .nav-item:hover .dropdown-menu{
+        display: none;
+    } */
+
+
+
+
+    .sale-detail{
+        margin-top: 40px;
+    }
+    .sale{
+        font-size: 25px;
+    }
+    h1{
+        font-size: 60px;
+        width: 500px;
+        line-height: 55px;
+        margin-top:-3px;
+
+    }
+    .say-hello{
+        width: 350px;
+        letter-spacing: 4px;
+        margin-bottom: 15px;
+    }
+    .shopnow{
+        padding: 15px 18px;
+    }
+
+
+
+
+
+
+
+
+    .style{
+        font-size:19px;
+    }
+    .offer{
+        width: 200px;
+        font-size: 15px;
+    }
+    .collection-button{
+        font-size: 14px;
+    }
+    .over{
+        background-position-y:10px;
+        background-position-x:10px;
+        height: 360px;
+    }
+   
+    .feature-content{
+        font-size: 16px;
+    }
+    .feature-detail{
+        font-size: 15px;
+    }
+    .pound{
+        font-size: 15px;
+    }
+    .product-detail{
+        font-size: 12px;
+    }
+    .shop-product-carousel{
+        margin-bottom: 20px;
+    }
+    .products-brand{
+        margin-top: 20px;
+        margin-bottom: 35px;
+    }
+    .product-name{
+        font-size: 17px;
+    }
+    .summer-sale-countdown{
+        font-size:28px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .counting{
+        margin-bottom: 20px;
+    }
+    .Categories{
+        margin-top: 50px;
+        margin-bottom: 30px;
+    }
+    .product-categories{
+        width:88%; 
+        bottom: 10px;
+    }
+    .stock{
+        margin-bottom: 5px;
+    }
+    .footer-address{
+        width: 170px;
+    }
+    
+    .copyright-contant{
+        font-size: 12px;
+    }
+}
+
+@media(max-width:768px){
+    .sale-detail{
+        margin-top: 10px;
+    }
+    .sale{
+        font-size: 18px;
+    }
+    h1{
+        font-size: 45px;
+        width: 350px;
+        margin-top:0px;
+        line-height: 42px;
+    }
+    .say-hello{
+        width: 280px;
+        letter-spacing: 3px;
+        font-size: 12px;
+        margin-bottom: 12px;
+        line-height: 16px;
+    }
+    .shopnow{
+        padding: 10px 15px;
+    }
+
+    .collection-card{
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .style{
+        font-size:19px;
+    }
+    .offer{
+        width: 200px;
+        font-size: 15px;
+        margin-bottom:  5px;
+    }
+    .collection-button{
+        font-size: 14px;
+    }
+    .Burn-out{ 
+        margin-bottom: 20px;
+        height: 300px;
+        
+    }
+    .over{
+        background-position-y:10px;
+        background-position-x:170px;
+        height: 300px;
+    }
+    .burnout-and-over-card{
+       column-gap: 0px;
+    }
+    .burnout-content{
+        padding: 20px;
+        padding-right: 30px;
+     }
+     .over-content{
+         padding: 20px;
+         padding-left: 30px;
+     }
+     .features{
+        margin-bottom: 40px;
+  
+     }
+     .features-item{
+       margin-top: 20px;
+       margin-bottom: 20px;
+     }
+    .feature-content{
+        font-size: 16px;
+    }
+    .feature-detail{
+        font-size: 15px;
+    }
+    .pound{
+        font-size: 15px;
+    }
+    .product-detail{
+        font-size: 12px;
+    }
+    .shop-product-carousel{
+        margin-bottom: 20px;
+    }
+    .products-brand{
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    .product-name{
+        font-size: 17px;
+    }
+    .summer-sale-countdown{
+        font-size: 25px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .counting{
+        margin-bottom: 20px;
+    }
+    .Categories{
+        margin-top: 50px;
+        margin-bottom: 30px;
+    }
+    .product-categories{
+        width:83%; 
+      
+    }
+    .stock{
+        margin-bottom: 0px;
+        font-size: 16px;
+    }
+    .footer-address{
+        width: 170px;
+    }
+    
+    .copyright-contant{
+        font-size: 12px;
+    }
+    
+}
+@media(max-width:576px){
+    .sale-detail{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .sale{
+        font-size: 17px;
+    }
+    h1{
+        font-size: 32px;
+        width: 100%;
+        line-height: 30px;
+        margin-top: 5px;
+        margin-bottom: 15px;
+    }
+    .say-hello{
+        width: 100%;
+        letter-spacing: 1px;
+        margin-top: -5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+        line-height: 15px;
+    }
+    .shopnow{
+        padding: 5px 10px;
+    }
+
+
+
+
+    .collection-card{
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .style{
+        font-size:19px;
+    }
+    .offer{
+        width: 200px;
+        font-size: 15px;
+        margin-bottom:  5px;
+    }
+    .collection-button{
+        font-size: 14px;
+    }
+    .Burn-out{ 
+        margin-bottom: 20px;
+        height: 300px;
+        
+    }
+    .over{
+        background-position-y:10px;
+        background-position-x:170px;
+        height: 300px;
+    }
+    .burnout-and-over-card{
+       column-gap: 0px;
+    }
+    .burnout-content{
+       padding-top: 20px;
+       padding-right: 30px;
+     }
+     .over-content{
+        padding-top: 20px;
+        padding-left: 30px;
+     }
+     .features{
+        margin-bottom: 40px;
+      
+     }
+     .features-item{
+       margin-top: 20px;
+       margin-bottom: 20px;
+     }
+    .feature-content{
+        font-size: 16px;
+    }
+    .feature-detail{
+        font-size: 15px;
+    }
+    .pound{
+        font-size: 15px;
+    }
+    .product-detail{
+        font-size: 12px;
+    }
+    .shop-product-carousel{
+        margin-bottom: 20px;
+    }
+    .products-brand{
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    .product-name{
+        font-size: 17px;
+    }
+    .summer-sale-countdown{
+        font-size: 25px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .counting{
+        margin-bottom: 20px;
+    }
+    .Categories{
+        margin-top: 50px;
+        margin-bottom: 30px;
+    }
+    .product-categories{
+        width:89%; 
+       
+    }
+    .stock{
+        margin-bottom: 0px;
+        font-size: 16px;
+    }
+    .footer-address{
+        width: 170px;
+    }
+    
+    .copyright-contant{
+        font-size: 12px;
+    }
+
+}
+
